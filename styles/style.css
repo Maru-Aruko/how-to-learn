@@ -109,8 +109,6 @@
   align-content: space-between;
   min-width: 784px;
   width: 80%;
-
-
 }
 
 .two-columns__paragraph {
@@ -124,7 +122,6 @@
 
 .two-columns__paragraph:not(:last-of-type) {
   margin-bottom: 30px;
-
 }
 
 .two-columns__span-accent {
@@ -294,7 +291,6 @@
 .footer__column_content_copyright {
   flex-basis: 711px;
   justify-content: space-between;
-
 }
 
 .logo_place_footer {
