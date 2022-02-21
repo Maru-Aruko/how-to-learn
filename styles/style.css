@@ -248,16 +248,11 @@
   background-image: url(../images/kaufman-triangle.svg);
   position: absolute;
   right: -210px;
+  top: 0;
   z-index: 0;
   width: 877px;
   height: 877px;
   background-size: 877px 877px;
-}
-
-.section-title_theme_dark {
-}
-
-.section-subtitle_theme_dark {
 }
 
 .table_theme_dark {
@@ -300,12 +295,6 @@
   flex-basis: 711px;
   justify-content: space-between;
 
-}
-
-.footer__column_content_info {
-}
-
-.footer__column_content_social {
 }
 
 .logo_place_footer {
