@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c49ddf27-269b-4fd3-bca8-45eb180c2140" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/feynman/feynman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feynman/feynman.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/kaufman/__triangle/kaufman__triangle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/kaufman/__triangle/kaufman__triangle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/logo/_place/logo_place_header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__quote/khan__quote.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__quote/khan__quote.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/section-subtitle/section-subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-subtitle/section-subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,8 @@
       <workItem from="1645438716079" duration="11878000" />
       <workItem from="1647021271928" duration="25274000" />
       <workItem from="1647197194282" duration="11677000" />
-      <workItem from="1647423806835" duration="1735000" />
+      <workItem from="1647423806835" duration="2513000" />
+      <workItem from="1647465733715" duration="1639000" />
     </task>
     <servers />
   </component>
