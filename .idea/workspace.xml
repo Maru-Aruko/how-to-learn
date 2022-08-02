@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c49ddf27-269b-4fd3-bca8-45eb180c2140" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/normalize.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/vendor/normalize.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../russian-travel/vendor/normalize.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="25CODWwj6ddZusoEC4fybpbbOSx" />
   <component name="ProjectLevelVcsManager">
@@ -41,13 +45,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/masha/dev/how-to-learn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\masha\dev\how-to-learn\vendor" />
@@ -80,6 +86,20 @@
       <workItem from="1647197194282" duration="11677000" />
       <workItem from="1647423806835" duration="2513000" />
       <workItem from="1647465733715" duration="2690000" />
+      <workItem from="1648897325143" duration="781000" />
+      <workItem from="1648898792863" duration="37000" />
+      <workItem from="1648898867641" duration="19000" />
+      <workItem from="1648899731123" duration="30000" />
+      <workItem from="1648900211597" duration="243000" />
+      <workItem from="1648903341798" duration="171000" />
+      <workItem from="1648904163999" duration="2493000" />
+      <workItem from="1648984816747" duration="305000" />
+      <workItem from="1649068397137" duration="29000" />
+      <workItem from="1649162062818" duration="25000" />
+      <workItem from="1649191124982" duration="35000" />
+      <workItem from="1649198486196" duration="7000" />
+      <workItem from="1649198574816" duration="3000" />
+      <workItem from="1659436199272" duration="569000" />
     </task>
     <servers />
   </component>
@@ -96,6 +116,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
